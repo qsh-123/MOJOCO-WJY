@@ -1,7 +1,7 @@
 # MuJoCo MPC 汽车仪表盘项目
 
 - **代码仓库**: 
-- **运行视频**: 
+- **运行视频**: https://www.bilibili.com/video/BV1bWvrBDE1h/?spm_id_from=333.1387.list.card_archive.click&vd_source=a50a5a7677335f45bbbbf5fe2f52c9d1
 - **作业报告**: 
 
 ## 项目信息
