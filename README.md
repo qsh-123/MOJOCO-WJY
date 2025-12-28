@@ -39,7 +39,6 @@
   - `simple_car.cc` — SimpleCar 任务实现：加载 MJCF、残差计算、状态转移、数据接口
   - `simulate.cc` — 仪表盘数据提取与平滑滤波（供 simple_car.cc 调用）
   - `simulate.h` — simulate.cc 的接口声明 + DashboardData 结构体
-  - `test_simple_car.cc` — 单元测试：离线验证车速、油耗、指针角度计算是否正确
 
 - `photo/`
   - 截图*.png — 运行截图：仪表盘效果、速度曲线、警告状态
